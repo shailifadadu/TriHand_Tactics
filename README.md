@@ -19,11 +19,10 @@ A simple yet fun implementation of the classic Rock Paper Scissors game. Challen
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="35" height="35" /> How to Play</h2>
 
-1. Clone or download the repository to your local machine.
-2. Open the `index.html` file in your web browser.
-3. Click on the buttons to select your move (Rock, Paper, or Scissors).
-4. See the result of the game displayed on the screen.
-5. Continue playing as desired.
+1. Play the game online [here](https://trihandtactics.netlify.app/).
+2. Click on the buttons to select your move (Rock, Paper, or Scissors).
+3. See the result of the game displayed on the screen.
+4. Continue playing as desired.
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="High Voltage" width="35" height="35"> Screenshot</h2>
 
